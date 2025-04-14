@@ -1,4 +1,4 @@
-- Vietnamese ver:
+Vietnamese ver:
 - Xin chào! Mình là Trần Hải Minh! 
 - Mình là một thằng ất ơ vô dụng nào đấy và không có mục đích gì trong cuộc sống.
 
